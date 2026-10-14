@@ -1,0 +1,36 @@
+[03-Mar-2026 15:11:20 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function selectOpeningBalance() in /home/sbiaccountco/jagwa.sbiaccount.co.tz/processes/printings/finacial_reports/print_account_statement.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/processes/printings/finacial_reports/print_account_statement.php on line 27
+[14-May-2026 00:15:42 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Call to undefined function listProjectById() in /home/sbiaccountco/tycoon.sbiaccount.co.tz/processes/printings/finacial_reports/print_account_statement.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/processes/printings/finacial_reports/print_account_statement.php on line 51
+[20-May-2026 13:27:26 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Call to undefined function listProjectById() in /home/sbiaccountco/tycoon.sbiaccount.co.tz/processes/printings/finacial_reports/print_account_statement.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/processes/printings/finacial_reports/print_account_statement.php on line 51
+[20-May-2026 13:27:37 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Call to undefined function listProjectById() in /home/sbiaccountco/tycoon.sbiaccount.co.tz/processes/printings/finacial_reports/print_account_statement.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/processes/printings/finacial_reports/print_account_statement.php on line 51
+[20-May-2026 13:27:39 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Call to undefined function listProjectById() in /home/sbiaccountco/tycoon.sbiaccount.co.tz/processes/printings/finacial_reports/print_account_statement.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/processes/printings/finacial_reports/print_account_statement.php on line 51
+[20-May-2026 13:27:42 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Call to undefined function listProjectById() in /home/sbiaccountco/tycoon.sbiaccount.co.tz/processes/printings/finacial_reports/print_account_statement.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/processes/printings/finacial_reports/print_account_statement.php on line 51
+[20-May-2026 13:27:49 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Call to undefined function listProjectById() in /home/sbiaccountco/tycoon.sbiaccount.co.tz/processes/printings/finacial_reports/print_account_statement.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/processes/printings/finacial_reports/print_account_statement.php on line 51
+[20-May-2026 13:28:10 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Call to undefined function listProjectById() in /home/sbiaccountco/tycoon.sbiaccount.co.tz/processes/printings/finacial_reports/print_account_statement.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/processes/printings/finacial_reports/print_account_statement.php on line 51
+[20-May-2026 13:28:12 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Call to undefined function listProjectById() in /home/sbiaccountco/tycoon.sbiaccount.co.tz/processes/printings/finacial_reports/print_account_statement.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/processes/printings/finacial_reports/print_account_statement.php on line 51

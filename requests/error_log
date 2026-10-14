@@ -1,0 +1,307 @@
+[03-May-2026 23:29:42 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sbiaccountco_tycoon.suppliers' doesn't exist in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/summary_function.php:117
+Stack trace:
+#0 /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/summary_function.php(117): mysqli->query()
+#1 /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php(22): selectTopSuppliers()
+#2 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/summary_function.php on line 117
+[11-May-2026 16:19:24 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:19:24 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:19:24 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:19:24 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:19:24 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:19:24 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:19:24 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:19:24 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:19:24 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:19:24 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:19:43 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:19:43 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:19:43 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:19:43 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:19:43 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:19:43 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:19:43 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:19:43 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:19:43 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:19:43 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:32:35 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught TypeError: selectSlowMovingItems(): Argument #2 ($store) must be of type ?int, string given, called in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 24 and defined in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/summary_function.php:197
+Stack trace:
+#0 /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php(24): selectSlowMovingItems()
+#1 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/summary_function.php on line 197
+[11-May-2026 16:35:52 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught TypeError: selectSlowMovingItems(): Argument #2 ($store) must be of type ?int, string given, called in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 24 and defined in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/summary_function.php:197
+Stack trace:
+#0 /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php(24): selectSlowMovingItems()
+#1 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/summary_function.php on line 197
+[11-May-2026 16:35:56 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught TypeError: selectSlowMovingItems(): Argument #2 ($store) must be of type ?int, string given, called in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 24 and defined in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/summary_function.php:197
+Stack trace:
+#0 /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php(24): selectSlowMovingItems()
+#1 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/summary_function.php on line 197
+[11-May-2026 16:37:53 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:37:53 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:37:53 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:37:53 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:37:53 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:37:53 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:37:53 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:37:53 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:37:53 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:37:53 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:38:15 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:38:15 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:38:15 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:38:15 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:38:15 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:38:15 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:38:15 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:38:15 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:38:15 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:38:15 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:46:00 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:46:00 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:46:00 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:46:00 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:46:00 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:46:00 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:46:00 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:46:00 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:46:00 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:46:00 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:47:13 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Call to undefined function sumStockIn() in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 14
+[11-May-2026 16:48:50 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Call to undefined function sumStockIn() in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 14
+[11-May-2026 16:49:19 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:49:19 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:49:19 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:49:19 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:49:19 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:49:19 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:49:19 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:49:19 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:49:19 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:49:19 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:53:40 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:53:40 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:53:40 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:53:40 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:53:40 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:53:40 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:53:40 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:53:40 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:53:40 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:53:40 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "total_grns" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 219
+[11-May-2026 16:57:35 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 16:57:35 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 16:57:35 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 16:57:35 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 16:57:35 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 16:57:35 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 16:57:35 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 16:57:35 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 16:57:35 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 16:57:35 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 16:57:42 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 16:57:42 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 16:57:42 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 16:57:42 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 16:57:42 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 16:57:42 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 16:57:42 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 16:57:42 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 16:57:42 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 16:57:42 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:00:35 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:00:35 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:00:35 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:00:35 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:00:35 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:00:35 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:00:35 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:00:35 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:00:35 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:00:35 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:00:40 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:00:40 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:00:40 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:00:40 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:00:40 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:00:40 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:00:40 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:00:40 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:00:40 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:00:40 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:02:50 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:02:50 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:02:50 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:02:50 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:02:50 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:02:50 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:02:50 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:02:50 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:02:50 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:02:50 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:02:54 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:02:54 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:02:54 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:02:54 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:02:54 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:02:54 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:02:54 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:02:54 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:02:54 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:02:54 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:06:15 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:06:15 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:06:15 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:06:15 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:06:15 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:06:15 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:06:15 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:06:15 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:06:15 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[11-May-2026 17:06:15 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "balance" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/dashboard_requests.php on line 149
+[29-May-2026 11:45:55 Asia/Kolkata] PHP Parse error:  syntax error, unexpected single-quoted string "selling_price", expecting "]" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/stock_requests.php on line 221
+[29-May-2026 11:46:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected single-quoted string "selling_price", expecting "]" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/stock_requests.php on line 221
+[29-May-2026 11:46:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected single-quoted string "selling_price", expecting "]" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/stock_requests.php on line 221
+[29-May-2026 11:46:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected single-quoted string "selling_price", expecting "]" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/stock_requests.php on line 221
+[29-May-2026 11:46:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected single-quoted string "selling_price", expecting "]" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/stock_requests.php on line 221
+[29-May-2026 11:52:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected single-quoted string "selling_price", expecting "]" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/stock_requests.php on line 221
+[29-May-2026 11:52:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected single-quoted string "selling_price", expecting "]" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/stock_requests.php on line 221
+[29-May-2026 11:56:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected single-quoted string "selling_price", expecting "]" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/stock_requests.php on line 221
+[29-May-2026 11:57:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected single-quoted string "selling_price", expecting "]" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/stock_requests.php on line 221
+[29-May-2026 11:58:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected single-quoted string "selling_price", expecting "]" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/stock_requests.php on line 221
+[29-May-2026 11:58:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected single-quoted string "selling_price", expecting "]" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/stock_requests.php on line 221
+[29-May-2026 12:02:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected single-quoted string "selling_price", expecting "]" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/stock_requests.php on line 221
+[29-May-2026 12:02:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected single-quoted string "selling_price", expecting "]" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/stock_requests.php on line 221
+[29-May-2026 12:03:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected single-quoted string "selling_price", expecting "]" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/stock_requests.php on line 221
+[11-Jun-2026 20:27:39 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Call to undefined function countUserStockDateRequestsByStatus() in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php on line 41
+[11-Jun-2026 20:28:22 Africa/Dar_es_Salaam] PHP Warning:  require_once(./functions/stock_date_request_functions.php): Failed to open stream: No such file or directory in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php on line 13
+[11-Jun-2026 20:28:22 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Failed opening required './functions/stock_date_request_functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php on line 13
+[11-Jun-2026 20:28:22 Africa/Dar_es_Salaam] PHP Warning:  require_once(./functions/stock_date_request_functions.php): Failed to open stream: No such file or directory in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php on line 13
+[11-Jun-2026 20:28:22 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Failed opening required './functions/stock_date_request_functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php on line 13
+[11-Jun-2026 20:28:30 Africa/Dar_es_Salaam] PHP Warning:  require_once(./functions/stock_date_request_functions.php): Failed to open stream: No such file or directory in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php on line 13
+[11-Jun-2026 20:28:30 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Failed opening required './functions/stock_date_request_functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php on line 13
+[11-Jun-2026 20:28:31 Africa/Dar_es_Salaam] PHP Warning:  require_once(./functions/stock_date_request_functions.php): Failed to open stream: No such file or directory in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php on line 13
+[11-Jun-2026 20:28:31 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Failed opening required './functions/stock_date_request_functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php on line 13
+[12-Jun-2026 09:02:12 Africa/Dar_es_Salaam] PHP Warning:  require_once(./functions/stock_date_request_functions.php): Failed to open stream: No such file or directory in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php on line 13
+[12-Jun-2026 09:02:12 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Failed opening required './functions/stock_date_request_functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php on line 13
+[12-Jun-2026 09:02:13 Africa/Dar_es_Salaam] PHP Warning:  require_once(./functions/stock_date_request_functions.php): Failed to open stream: No such file or directory in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php on line 13
+[12-Jun-2026 09:02:13 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Failed opening required './functions/stock_date_request_functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php on line 13
+[12-Jun-2026 09:05:35 Africa/Dar_es_Salaam] PHP Warning:  require_once(./functions/stock_date_request_functions.php): Failed to open stream: No such file or directory in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php on line 13
+[12-Jun-2026 09:05:35 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Failed opening required './functions/stock_date_request_functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php on line 13
+[12-Jun-2026 09:05:35 Africa/Dar_es_Salaam] PHP Warning:  require_once(./functions/stock_date_request_functions.php): Failed to open stream: No such file or directory in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php on line 13
+[12-Jun-2026 09:05:35 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Failed opening required './functions/stock_date_request_functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php on line 13
+[12-Jun-2026 09:10:52 Africa/Dar_es_Salaam] PHP Warning:  require_once(./functions/stock_date_request_functions.php): Failed to open stream: No such file or directory in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php on line 13
+[12-Jun-2026 09:10:52 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Failed opening required './functions/stock_date_request_functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php on line 13
+[12-Jun-2026 09:10:52 Africa/Dar_es_Salaam] PHP Warning:  require_once(./functions/stock_date_request_functions.php): Failed to open stream: No such file or directory in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php on line 13
+[12-Jun-2026 09:10:52 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Failed opening required './functions/stock_date_request_functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php on line 13
+[12-Jun-2026 09:11:04 Africa/Dar_es_Salaam] PHP Warning:  require_once(./functions/stock_date_request_functions.php): Failed to open stream: No such file or directory in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php on line 13
+[12-Jun-2026 09:11:04 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Failed opening required './functions/stock_date_request_functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php on line 13
+[12-Jun-2026 09:11:04 Africa/Dar_es_Salaam] PHP Warning:  require_once(./functions/stock_date_request_functions.php): Failed to open stream: No such file or directory in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php on line 13
+[12-Jun-2026 09:11:04 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Failed opening required './functions/stock_date_request_functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php on line 13
+[12-Jun-2026 09:30:27 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'u.name' in 'SELECT' in /home/sbiaccountco/precious.sbiaccount.co.tz/functions/stock_date_request_functions.php:41
+Stack trace:
+#0 /home/sbiaccountco/precious.sbiaccount.co.tz/functions/stock_date_request_functions.php(41): mysqli->query()
+#1 /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php(56): selectAllStockDateRequestsByStatus()
+#2 {main}
+  thrown in /home/sbiaccountco/precious.sbiaccount.co.tz/functions/stock_date_request_functions.php on line 41
+[12-Jun-2026 09:30:39 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'u.name' in 'SELECT' in /home/sbiaccountco/precious.sbiaccount.co.tz/functions/stock_date_request_functions.php:41
+Stack trace:
+#0 /home/sbiaccountco/precious.sbiaccount.co.tz/functions/stock_date_request_functions.php(41): mysqli->query()
+#1 /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php(56): selectAllStockDateRequestsByStatus()
+#2 {main}
+  thrown in /home/sbiaccountco/precious.sbiaccount.co.tz/functions/stock_date_request_functions.php on line 41
+[12-Jun-2026 09:38:59 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'u.name' in 'SELECT' in /home/sbiaccountco/precious.sbiaccount.co.tz/functions/stock_date_request_functions.php:41
+Stack trace:
+#0 /home/sbiaccountco/precious.sbiaccount.co.tz/functions/stock_date_request_functions.php(41): mysqli->query()
+#1 /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php(56): selectAllStockDateRequestsByStatus()
+#2 {main}
+  thrown in /home/sbiaccountco/precious.sbiaccount.co.tz/functions/stock_date_request_functions.php on line 41
+[12-Jun-2026 09:39:11 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'u.name' in 'SELECT' in /home/sbiaccountco/precious.sbiaccount.co.tz/functions/stock_date_request_functions.php:41
+Stack trace:
+#0 /home/sbiaccountco/precious.sbiaccount.co.tz/functions/stock_date_request_functions.php(41): mysqli->query()
+#1 /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php(56): selectAllStockDateRequestsByStatus()
+#2 {main}
+  thrown in /home/sbiaccountco/precious.sbiaccount.co.tz/functions/stock_date_request_functions.php on line 41
+[12-Jun-2026 09:39:19 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'u.name' in 'SELECT' in /home/sbiaccountco/precious.sbiaccount.co.tz/functions/stock_date_request_functions.php:41
+Stack trace:
+#0 /home/sbiaccountco/precious.sbiaccount.co.tz/functions/stock_date_request_functions.php(41): mysqli->query()
+#1 /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php(56): selectAllStockDateRequestsByStatus()
+#2 {main}
+  thrown in /home/sbiaccountco/precious.sbiaccount.co.tz/functions/stock_date_request_functions.php on line 41
+[12-Jun-2026 09:45:13 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'u.name' in 'SELECT' in /home/sbiaccountco/precious.sbiaccount.co.tz/functions/stock_date_request_functions.php:41
+Stack trace:
+#0 /home/sbiaccountco/precious.sbiaccount.co.tz/functions/stock_date_request_functions.php(41): mysqli->query()
+#1 /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php(56): selectAllStockDateRequestsByStatus()
+#2 {main}
+  thrown in /home/sbiaccountco/precious.sbiaccount.co.tz/functions/stock_date_request_functions.php on line 41
+[12-Jun-2026 09:46:37 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'u.name' in 'SELECT' in /home/sbiaccountco/precious.sbiaccount.co.tz/functions/stock_date_request_functions.php:41
+Stack trace:
+#0 /home/sbiaccountco/precious.sbiaccount.co.tz/functions/stock_date_request_functions.php(41): mysqli->query()
+#1 /home/sbiaccountco/precious.sbiaccount.co.tz/requests/notification_requests.php(56): selectAllStockDateRequestsByStatus()
+#2 {main}
+  thrown in /home/sbiaccountco/precious.sbiaccount.co.tz/functions/stock_date_request_functions.php on line 41
+[19-Jun-2026 17:25:01 Asia/Kolkata] PHP Warning:  Undefined array key "usertype" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/notification_requests.php on line 6
+[19-Jun-2026 17:25:01 Asia/Kolkata] PHP Warning:  Undefined array key "usertype" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/notification_requests.php on line 6
+[19-Jun-2026 18:25:42 Asia/Kolkata] PHP Warning:  Undefined array key "usertype" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/notification_requests.php on line 6
+[19-Jun-2026 18:25:43 Asia/Kolkata] PHP Warning:  Undefined array key "usertype" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/notification_requests.php on line 6
+[19-Jun-2026 18:25:46 Asia/Kolkata] PHP Warning:  Undefined array key "usertype" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/notification_requests.php on line 6
+[19-Jun-2026 18:25:46 Asia/Kolkata] PHP Warning:  Undefined array key "usertype" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/notification_requests.php on line 6
+[19-Jun-2026 18:25:49 Asia/Kolkata] PHP Warning:  Undefined array key "usertype" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/notification_requests.php on line 6
+[19-Jun-2026 18:25:49 Asia/Kolkata] PHP Warning:  Undefined array key "usertype" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/notification_requests.php on line 6
+[19-Jun-2026 18:25:52 Asia/Kolkata] PHP Warning:  Undefined array key "usertype" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/notification_requests.php on line 6
+[19-Jun-2026 18:25:52 Asia/Kolkata] PHP Warning:  Undefined array key "usertype" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/notification_requests.php on line 6
+[19-Jun-2026 18:26:47 Asia/Kolkata] PHP Warning:  Undefined array key "usertype" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/notification_requests.php on line 6
+[19-Jun-2026 18:26:48 Asia/Kolkata] PHP Warning:  Undefined array key "usertype" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/notification_requests.php on line 6
+[26-Jun-2026 15:23:12 Asia/Kolkata] PHP Warning:  Undefined array key "usertype" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/notification_requests.php on line 6
+[26-Jun-2026 15:23:13 Asia/Kolkata] PHP Warning:  Undefined array key "usertype" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/notification_requests.php on line 6
+[24-Jul-2026 05:09:32 Asia/Kolkata] PHP Warning:  Undefined array key "usertype" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/notification_requests.php on line 6
+[24-Jul-2026 05:09:35 Asia/Kolkata] PHP Warning:  Undefined array key "usertype" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/notification_requests.php on line 6
+[30-Jul-2026 17:57:54 Asia/Kolkata] PHP Warning:  Undefined array key "usertype" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/notification_requests.php on line 6
+[30-Jul-2026 17:57:54 Asia/Kolkata] PHP Warning:  Undefined array key "usertype" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/notification_requests.php on line 6

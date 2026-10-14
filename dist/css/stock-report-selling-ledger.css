@@ -1,0 +1,28 @@
+.stock-selling-ledger-report { font-family: 'Source Sans Pro', sans-serif; padding: 30px; line-height: 1.4; color: #333; }
+.stock-selling-ledger-report * { box-sizing: border-box; }
+@media print { .stock-selling-ledger-report { padding: 15px; } }
+.stock-selling-ledger-report-header { display: flex; align-items: center; justify-content: space-between; padding: 15px 0; }
+.stock-selling-ledger-report-logo { width: 250px; height: 200px; flex-shrink: 0; }
+.stock-selling-ledger-report-logo img { width: 100%; height: 100%; object-fit: contain; }
+.stock-selling-ledger-report-title { font-size: 50px; font-weight: bold; color: var(--primary); text-align: right; flex: 1; padding-top: 40px; }
+.stock-selling-ledger-report-info-row { display: flex; justify-content: space-between; align-items: flex-start; margin: 20px 0; padding: 15px 0; border-bottom: 2px solid var(--primary-dark); }
+.stock-selling-ledger-report-party { flex: 1; }
+.stock-selling-ledger-report-party-label { font-weight: bold; font-size: 13px; color: var(--primary); margin-bottom: 4px; margin-top: 10px; }
+.stock-selling-ledger-report-party-label:first-child { margin-top: 0; }
+.stock-selling-ledger-report-party-value { font-size: 13px; color: #333; margin-bottom: 2px; }
+.stock-selling-ledger-report-meta { flex: 1; text-align: right; }
+.stock-selling-ledger-report-table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+.stock-selling-ledger-report-table thead tr { background: var(--primary); -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+.stock-selling-ledger-report-table th { padding: 11px 8px; text-align: left; font-size: 12px; font-weight: bold; border: 1px solid var(--primary-dark); color: var(--primary-text); }
+.stock-selling-ledger-report-table td { padding: 9px 8px; border: 1px solid #ddd; font-size: 12px; vertical-align: middle; }
+.stock-selling-ledger-report-table tbody tr:nth-child(even) { background: var(--primary-light); -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+.stock-selling-ledger-report-text-right { text-align: right; }
+.stock-selling-ledger-report-text-center { text-align: center; }
+.stock-selling-ledger-report-row-img { width: 38px; height: 38px; object-fit: cover; border-radius: 4px; display: block; }
+.stock-selling-ledger-report-row-noimg { width: 38px; height: 38px; background: #f0f0f0; border-radius: 4px; display: flex; align-items: center; justify-content: center; font-size: 9px; color: #bbb; }
+.stock-selling-ledger-report-table tfoot tr.stock-selling-ledger-report-totals-row { background: var(--primary-dark); -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+.stock-selling-ledger-report-table tfoot tr.stock-selling-ledger-report-totals-row td { color: #fff; font-weight: bold; font-size: 12px; border: 1px solid var(--primary); }
+.stock-selling-ledger-report-table tfoot tr.stock-selling-ledger-report-header-row { background: var(--primary); -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+.stock-selling-ledger-report-table tfoot tr.stock-selling-ledger-report-header-row th { color: var(--primary-text); }
+.stock-selling-ledger-report-footer { margin-top: 40px; font-size: 11px; color: var(--primary-text); text-align: center; background: var(--primary); padding: 15px 20px; line-height: 1.7; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+.stock-selling-ledger-report-footer strong { color: var(--primary-text); font-size: 13px; }

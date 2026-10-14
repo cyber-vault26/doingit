@@ -1,0 +1,4 @@
+[19-Mar-2026 17:25:38 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Call to undefined function selectTransactionByProjectId() in /home/sbiaccountco/jagwa.sbiaccount.co.tz/processes/printings/project/print_project_detail.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/processes/printings/project/print_project_detail.php on line 17

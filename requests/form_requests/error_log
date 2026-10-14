@@ -1,0 +1,531 @@
+[26-Mar-2025 19:46:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function selectAllSubsidiaries() in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 79
+[26-Mar-2025 19:47:56 Asia/Kolkata] PHP Warning:  require_once(../../functions/retail_functions.php): Failed to open stream: No such file or directory in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 4
+[26-Mar-2025 19:47:56 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Failed opening required '../../functions/retail_functions.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 4
+[26-Mar-2025 19:47:56 Asia/Kolkata] PHP Warning:  require_once(../../functions/retail_functions.php): Failed to open stream: No such file or directory in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 4
+[26-Mar-2025 19:47:56 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Failed opening required '../../functions/retail_functions.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 4
+[28-Mar-2025 21:56:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function selectSubCostCentersByCostCenterId() in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 98
+[28-Mar-2025 21:59:08 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function selectSubCostCentersByCostCenterId() in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 98
+[28-Mar-2025 21:59:09 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function selectSubCostCentersByCostCenterId() in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 98
+[28-Mar-2025 21:59:12 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function selectSubCostCentersByCostCenterId() in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 98
+[28-Mar-2025 21:59:17 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function selectSubCostCentersByCostCenterId() in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 98
+[28-Mar-2025 21:59:56 Asia/Kolkata] PHP Fatal error:  Cannot redeclare registerCostCenter() (previously declared in /home/lugeye/system.lugeye.co.tz/functions/utilities_functions.php:78) in /home/lugeye/system.lugeye.co.tz/functions/cost_center_functions.php on line 2
+[28-Mar-2025 22:02:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare selectCostCenter() (previously declared in /home/lugeye/system.lugeye.co.tz/functions/utilities_functions.php:79) in /home/lugeye/system.lugeye.co.tz/functions/cost_center_functions.php on line 18
+[28-Mar-2025 22:02:21 Asia/Kolkata] PHP Fatal error:  Cannot redeclare selectSubCostCentersByCostCenterId() (previously declared in /home/lugeye/system.lugeye.co.tz/functions/cost_center_functions.php:66) in /home/lugeye/system.lugeye.co.tz/functions/cost_center_functions.php on line 83
+[28-Mar-2025 22:02:26 Asia/Kolkata] PHP Fatal error:  Cannot redeclare selectSubCostCentersByCostCenterId() (previously declared in /home/lugeye/system.lugeye.co.tz/functions/cost_center_functions.php:66) in /home/lugeye/system.lugeye.co.tz/functions/cost_center_functions.php on line 83
+[28-Mar-2025 22:03:10 Asia/Kolkata] PHP Fatal error:  Cannot redeclare deleteSubCostCenter() (previously declared in /home/lugeye/system.lugeye.co.tz/functions/cost_center_functions.php:75) in /home/lugeye/system.lugeye.co.tz/functions/cost_center_functions.php on line 92
+[28-Mar-2025 22:03:12 Asia/Kolkata] PHP Fatal error:  Cannot redeclare deleteSubCostCenter() (previously declared in /home/lugeye/system.lugeye.co.tz/functions/cost_center_functions.php:75) in /home/lugeye/system.lugeye.co.tz/functions/cost_center_functions.php on line 92
+[28-Mar-2025 22:03:35 Asia/Kolkata] PHP Fatal error:  Cannot redeclare selectSubCostCentersByCostCenterId() (previously declared in /home/lugeye/system.lugeye.co.tz/functions/cost_center_functions.php:66) in /home/lugeye/system.lugeye.co.tz/functions/cost_center_functions.php on line 100
+[28-Mar-2025 22:59:29 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function selectPumpFromStation() in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 67
+[28-Mar-2025 22:59:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function selectPumpFromStation() in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 67
+[28-Mar-2025 23:02:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function selectPumpFromStation() in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 67
+[28-Mar-2025 23:02:08 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function selectPumpFromStation() in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 67
+[28-Mar-2025 23:04:46 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: selectPumpFromStation(): Argument #2 ($stationId) must be of type int, string given, called in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 67 and defined in /home/lugeye/system.lugeye.co.tz/functions/retail_functions.php:36
+Stack trace:
+#0 /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php(67): selectPumpFromStation()
+#1 {main}
+  thrown in /home/lugeye/system.lugeye.co.tz/functions/retail_functions.php on line 36
+[25-Jun-2025 13:41:17 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function selectVoucherByRefTypeAndDateRange() in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php:230
+Stack trace:
+#0 {main}
+  thrown in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 230
+[25-Jun-2025 13:41:20 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function selectVoucherByRefTypeAndDateRange() in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php:230
+Stack trace:
+#0 {main}
+  thrown in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 230
+[25-Jun-2025 13:41:20 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function selectVoucherByRefTypeAndDateRange() in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php:230
+Stack trace:
+#0 {main}
+  thrown in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 230
+[25-Jun-2025 13:41:21 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function selectVoucherByRefTypeAndDateRange() in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php:230
+Stack trace:
+#0 {main}
+  thrown in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 230
+[25-Jun-2025 13:42:04 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function selectPurchasesByDateRange() in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php:297
+Stack trace:
+#0 {main}
+  thrown in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 297
+[25-Jun-2025 13:43:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function selectVoucherByRefTypeAndDateRange() in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 231
+[25-Jun-2025 13:43:37 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function selectAllInvoicesByDateRange() in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php:344
+Stack trace:
+#0 {main}
+  thrown in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 344
+[25-Jun-2025 13:43:38 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'purchase_voucher.deleted_at' in 'WHERE' in /home/lugeye/system.lugeye.co.tz/functions/voucher_functions.php:72
+Stack trace:
+#0 /home/lugeye/system.lugeye.co.tz/functions/voucher_functions.php(72): mysqli->prepare()
+#1 /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php(298): selectPurchasesByDateRange()
+#2 {main}
+  thrown in /home/lugeye/system.lugeye.co.tz/functions/voucher_functions.php on line 72
+[25-Jun-2025 13:45:14 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function selectAllInvoicesByDateRange() in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php:344
+Stack trace:
+#0 {main}
+  thrown in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 344
+[25-Jun-2025 13:45:18 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function selectAllInvoicesByDateRange() in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php:344
+Stack trace:
+#0 {main}
+  thrown in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 344
+[25-Jun-2025 13:47:42 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'purchase_voucher.deleted_at' in 'WHERE' in /home/lugeye/system.lugeye.co.tz/functions/voucher_functions.php:72
+Stack trace:
+#0 /home/lugeye/system.lugeye.co.tz/functions/voucher_functions.php(72): mysqli->prepare()
+#1 /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php(298): selectPurchasesByDateRange()
+#2 {main}
+  thrown in /home/lugeye/system.lugeye.co.tz/functions/voucher_functions.php on line 72
+[25-Jun-2025 18:37:32 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function selectSubsidiaryByType(), 2 passed in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 430 and exactly 3 expected in /home/lugeye/system.lugeye.co.tz/functions/subsidiary_functions.php:148
+Stack trace:
+#0 /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php(430): selectSubsidiaryByType()
+#1 {main}
+  thrown in /home/lugeye/system.lugeye.co.tz/functions/subsidiary_functions.php on line 148
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:35 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:37 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:39 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "ledger" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 464
+[25-Jun-2025 18:39:36 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function selectDeletedSubsidiaries() in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php:428
+Stack trace:
+#0 {main}
+  thrown in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 428
+[25-Jun-2025 19:08:26 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/lugeye/system.lugeye.co.tz/functions/subsidiary_functions.php:411
+Stack trace:
+#0 /home/lugeye/system.lugeye.co.tz/functions/subsidiary_functions.php(411): mysqli->prepare()
+#1 /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php(428): selectDeletedSubsidiaries()
+#2 {main}
+  thrown in /home/lugeye/system.lugeye.co.tz/functions/subsidiary_functions.php on line 411
+[27-Aug-2025 14:03:45 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 233
+[27-Aug-2025 14:03:45 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 234
+[27-Aug-2025 14:23:45 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 233
+[27-Aug-2025 14:23:45 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 234
+[27-Aug-2025 14:24:00 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 233
+[27-Aug-2025 14:24:00 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 234
+[27-Aug-2025 14:24:08 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 233
+[27-Aug-2025 14:24:08 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 234
+[28-Aug-2025 10:33:30 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 233
+[28-Aug-2025 10:33:30 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 234
+[28-Aug-2025 10:33:36 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 233
+[28-Aug-2025 10:33:36 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 234
+[28-Aug-2025 10:33:43 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 233
+[28-Aug-2025 10:33:43 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 234
+[28-Aug-2025 12:36:10 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 233
+[28-Aug-2025 12:36:10 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 234
+[29-Aug-2025 12:21:42 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 233
+[29-Aug-2025 12:21:42 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 234
+[29-Aug-2025 12:21:48 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 233
+[29-Aug-2025 12:21:48 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 234
+[29-Aug-2025 12:21:49 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 233
+[29-Aug-2025 12:21:49 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 234
+[29-Aug-2025 12:27:02 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 233
+[29-Aug-2025 12:27:02 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 234
+[29-Aug-2025 12:58:01 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 233
+[29-Aug-2025 12:58:01 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 234
+[02-Sep-2025 13:34:56 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 233
+[02-Sep-2025 13:34:56 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 234
+[02-Sep-2025 13:35:01 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 233
+[02-Sep-2025 13:35:01 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 234
+[02-Sep-2025 19:32:21 Asia/Kolkata] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/lugeye/system.lugeye.co.tz/configs.php on line 14
+[02-Sep-2025 19:32:21 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: openConn(): Return value must be of type mysqli, bool returned in /home/lugeye/system.lugeye.co.tz/configs.php:15
+Stack trace:
+#0 /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php(9): openConn()
+#1 {main}
+  thrown in /home/lugeye/system.lugeye.co.tz/configs.php on line 15
+[08-Oct-2025 14:57:37 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 233
+[08-Oct-2025 14:57:37 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 234
+[08-Oct-2025 15:00:30 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 233
+[08-Oct-2025 15:00:30 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 234
+[15-Oct-2025 18:02:27 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 233
+[15-Oct-2025 18:02:27 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 234
+[15-Oct-2025 18:02:41 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 233
+[15-Oct-2025 18:02:41 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 234
+[15-Oct-2025 18:02:57 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 233
+[15-Oct-2025 18:02:57 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 234
+[15-Oct-2025 18:17:45 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 233
+[15-Oct-2025 18:17:45 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 234
+[15-Oct-2025 19:20:27 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 233
+[15-Oct-2025 19:20:27 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 234
+[15-Oct-2025 19:20:33 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 233
+[15-Oct-2025 19:20:33 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 234
+[15-Oct-2025 19:20:39 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 233
+[15-Oct-2025 19:20:39 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 234
+[15-Oct-2025 19:20:46 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 233
+[15-Oct-2025 19:20:46 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/lugeye/system.lugeye.co.tz/requests/form_requests/form_requests.php on line 234
+[20-Oct-2025 15:50:42 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 233
+[20-Oct-2025 15:50:42 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 234
+[20-Oct-2025 15:53:20 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 233
+[20-Oct-2025 15:53:20 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 234
+[25-Feb-2026 12:12:42 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'sales_voucher.dr_account' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:585
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(585): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(384): selectAllInvoicesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 585
+[25-Feb-2026 12:12:50 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'purchase_voucher.cr_account_id' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:541
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(541): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(339): selectPurchasesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 541
+[25-Feb-2026 12:13:01 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'purchase_voucher.cr_account_id' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:541
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(541): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(339): selectPurchasesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 541
+[25-Feb-2026 12:13:02 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'sales_voucher.dr_account' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:585
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(585): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(384): selectAllInvoicesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 585
+[25-Feb-2026 12:13:04 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'sales_voucher.dr_account' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:585
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(585): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(384): selectAllInvoicesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 585
+[25-Feb-2026 12:13:05 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'purchase_voucher.cr_account_id' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:541
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(541): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(339): selectPurchasesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 541
+[25-Feb-2026 12:13:10 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'purchase_voucher.cr_account_id' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:541
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(541): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(339): selectPurchasesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 541
+[25-Feb-2026 12:13:12 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'sales_voucher.dr_account' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:585
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(585): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(384): selectAllInvoicesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 585
+[25-Feb-2026 12:13:13 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'purchase_voucher.cr_account_id' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:541
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(541): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(339): selectPurchasesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 541
+[25-Feb-2026 12:13:14 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'sales_voucher.dr_account' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:585
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(585): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(384): selectAllInvoicesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 585
+[25-Feb-2026 12:13:15 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'purchase_voucher.cr_account_id' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:541
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(541): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(339): selectPurchasesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 541
+[25-Feb-2026 12:13:16 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'sales_voucher.dr_account' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:585
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(585): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(384): selectAllInvoicesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 585
+[25-Feb-2026 12:13:17 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'purchase_voucher.cr_account_id' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:541
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(541): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(339): selectPurchasesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 541
+[25-Feb-2026 12:15:12 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'purchase_voucher.cr_account_id' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:541
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(541): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(339): selectPurchasesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 541
+[25-Feb-2026 12:18:18 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'sales_voucher.dr_account' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:585
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(585): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(384): selectAllInvoicesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 585
+[25-Feb-2026 12:18:18 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'purchase_voucher.cr_account_id' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:541
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(541): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(339): selectPurchasesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 541
+[25-Feb-2026 12:18:24 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'purchase_voucher.cr_account_id' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:541
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(541): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(339): selectPurchasesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 541
+[25-Feb-2026 12:18:25 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'sales_voucher.dr_account' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:585
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(585): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(384): selectAllInvoicesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 585
+[25-Feb-2026 12:18:26 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'sales_voucher.dr_account' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:585
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(585): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(384): selectAllInvoicesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 585
+[25-Feb-2026 12:18:27 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'purchase_voucher.cr_account_id' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:541
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(541): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(339): selectPurchasesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 541
+[25-Feb-2026 12:18:32 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'purchase_voucher.cr_account_id' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:541
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(541): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(339): selectPurchasesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 541
+[25-Feb-2026 12:18:33 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'sales_voucher.dr_account' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:585
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(585): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(384): selectAllInvoicesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 585
+[25-Feb-2026 12:18:35 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'sales_voucher.dr_account' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:585
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(585): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(384): selectAllInvoicesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 585
+[25-Feb-2026 12:18:36 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'purchase_voucher.cr_account_id' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:541
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(541): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(339): selectPurchasesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 541
+[26-Feb-2026 12:13:29 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'sales_voucher.dr_account' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:585
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(585): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(384): selectAllInvoicesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 585
+[26-Feb-2026 12:13:32 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'sales_voucher.dr_account' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:585
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(585): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(384): selectAllInvoicesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 585
+[26-Feb-2026 12:13:33 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'purchase_voucher.cr_account_id' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:541
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(541): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(339): selectPurchasesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 541
+[26-Feb-2026 12:13:41 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'purchase_voucher.cr_account_id' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:541
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(541): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(339): selectPurchasesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 541
+[26-Feb-2026 12:13:41 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'sales_voucher.dr_account' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:585
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(585): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(384): selectAllInvoicesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 585
+[26-Feb-2026 12:13:54 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'sales_voucher.dr_account' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:585
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(585): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(384): selectAllInvoicesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 585
+[26-Feb-2026 12:13:55 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'purchase_voucher.cr_account_id' in 'ON' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:541
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php(541): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php(339): selectPurchasesByDateRange()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 541
+[26-Feb-2026 12:26:51 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 233
+[26-Feb-2026 12:26:51 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 234
+[26-Feb-2026 12:26:51 Asia/Kolkata] PHP Warning:  Undefined array key "type" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 235
+[26-Feb-2026 12:29:36 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 233
+[26-Feb-2026 12:29:36 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 234
+[26-Feb-2026 12:29:47 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 233
+[26-Feb-2026 12:29:47 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 234
+[26-Feb-2026 12:29:50 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 233
+[26-Feb-2026 12:29:50 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 234
+[26-Feb-2026 12:29:51 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 233
+[26-Feb-2026 12:29:51 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 234
+[26-Feb-2026 12:29:53 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 233
+[26-Feb-2026 12:29:53 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 234
+[26-Feb-2026 12:29:54 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 233
+[26-Feb-2026 12:29:54 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 234
+[26-Feb-2026 12:29:56 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 233
+[26-Feb-2026 12:29:56 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 234
+[26-Feb-2026 12:29:57 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 233
+[26-Feb-2026 12:29:57 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 234
+[26-Feb-2026 12:30:00 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 233
+[26-Feb-2026 12:30:00 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 234
+[26-Feb-2026 12:31:16 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 233
+[26-Feb-2026 12:31:16 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 234
+[26-Feb-2026 12:34:04 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 233
+[26-Feb-2026 12:34:04 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 234
+[26-Feb-2026 12:34:04 Asia/Kolkata] PHP Warning:  Undefined array key "type" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 235
+[26-Feb-2026 12:35:41 Asia/Kolkata] PHP Warning:  Undefined array key "date1" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 233
+[26-Feb-2026 12:35:41 Asia/Kolkata] PHP Warning:  Undefined array key "date2" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/requests/form_requests/form_requests.php on line 234

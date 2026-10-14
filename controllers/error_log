@@ -1,0 +1,992 @@
+[03-Mar-2026 15:05:24 Asia/Kolkata] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 12
+[03-Mar-2026 15:05:24 Asia/Kolkata] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 407
+[10-Mar-2026 13:03:34 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: createSubsidiary(): Argument #4 ($created_by) must be of type int, string given, called in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php on line 29 and defined in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/subsidiary_functions.php:3
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php(29): createSubsidiary()
+#1 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/subsidiary_functions.php on line 3
+[10-Mar-2026 12:11:03 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Call to undefined function loatval() in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/procurement_controller.php:213
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/procurement_controller.php on line 213
+[10-Mar-2026 12:11:31 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught TypeError: createRetirementItem(): Argument #8 ($receipt_path) must be of type string, null given, called in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/procurement_controller.php on line 243 and defined in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/procurement_functions.php:279
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/procurement_controller.php(243): createRetirementItem()
+#1 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/procurement_functions.php on line 279
+[11-Mar-2026 16:45:06 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 13
+[11-Mar-2026 16:45:06 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 583
+[11-Mar-2026 16:46:07 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 13
+[11-Mar-2026 16:46:07 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 583
+[12-Mar-2026 12:47:13 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught TypeError: insertStockMovement(): Argument #17 ($cr_account) must be of type int, string given, called in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/stock_controllers.php on line 84 and defined in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/stock_functions.php:75
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/stock_controllers.php(84): insertStockMovement()
+#1 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/stock_functions.php on line 75
+[12-Mar-2026 12:52:06 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/stock_functions.php:80
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/stock_functions.php(80): mysqli_stmt->bind_param()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/stock_controllers.php(94): insertStockMovement()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/stock_functions.php on line 80
+[12-Mar-2026 12:53:47 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/stock_functions.php:79
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/stock_functions.php(79): mysqli_stmt->bind_param()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/stock_controllers.php(94): insertStockMovement()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/stock_functions.php on line 79
+[12-Mar-2026 12:58:16 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Call to undefined function insertStockMovement() in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/stock_controllers.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/stock_controllers.php on line 94
+[12-Mar-2026 13:01:12 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Call to undefined function insertStockMovement() in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/stock_controllers.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/stock_controllers.php on line 85
+[12-Mar-2026 13:01:31 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/stock_functions.php:79
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/stock_functions.php(79): mysqli_stmt->bind_param()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/stock_controllers.php(85): insertStockMovement()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/stock_functions.php on line 79
+[12-Mar-2026 13:05:04 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/stock_functions.php:79
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/stock_functions.php(79): mysqli_stmt->bind_param()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/stock_controllers.php(87): insertStockMovement()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/stock_functions.php on line 79
+[12-Mar-2026 13:11:29 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "tax_rate" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/stock_controllers.php on line 59
+[12-Mar-2026 13:29:23 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type float in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/stock_controllers.php on line 81
+[12-Mar-2026 13:29:23 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type float in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/stock_controllers.php on line 81
+[12-Mar-2026 13:31:21 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type float in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/stock_controllers.php on line 81
+[12-Mar-2026 13:31:21 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type float in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/stock_controllers.php on line 81
+[12-Mar-2026 13:52:37 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type float in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/stock_controllers.php on line 81
+[12-Mar-2026 13:52:37 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type float in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/stock_controllers.php on line 81
+[13-Mar-2026 00:48:17 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/opening_balance_controller.php on line 63
+[13-Mar-2026 00:48:33 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php:183
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php(183): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php(58): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php on line 183
+[13-Mar-2026 00:48:34 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php:183
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php(183): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php(58): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php on line 183
+[13-Mar-2026 00:48:35 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php:183
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php(183): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php(58): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php on line 183
+[13-Mar-2026 00:48:36 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php:183
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php(183): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php(58): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php on line 183
+[13-Mar-2026 00:48:36 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php:183
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php(183): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php(58): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php on line 183
+[13-Mar-2026 00:48:37 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php:183
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php(183): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php(58): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php on line 183
+[13-Mar-2026 00:48:37 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php:183
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php(183): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php(58): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php on line 183
+[13-Mar-2026 00:48:38 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php:183
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php(183): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php(58): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php on line 183
+[13-Mar-2026 12:46:37 Africa/Dar_es_Salaam] Error updating purchase order: 
+[13-Mar-2026 12:46:37 Africa/Dar_es_Salaam] Error updating purchase order item: 
+[13-Mar-2026 12:48:45 Africa/Dar_es_Salaam] Error updating purchase order: 
+[13-Mar-2026 13:28:44 Africa/Dar_es_Salaam] Error updating purchase order: 
+[13-Mar-2026 13:33:46 Africa/Dar_es_Salaam] Error updating purchase order: 
+[13-Mar-2026 13:36:00 Africa/Dar_es_Salaam] Error updating purchase order: 
+[13-Mar-2026 13:51:10 Africa/Dar_es_Salaam] Error updating purchase order: 
+[13-Mar-2026 14:35:58 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught TypeError: createBulkyTransactionItem(): Argument #9 ($quantity) must be of type float, string given, called in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 680 and defined in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:639
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php(680): createBulkyTransactionItem()
+#1 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 639
+[13-Mar-2026 14:40:16 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Call to undefined function createBulkyTransaction() in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php:608
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 608
+[13-Mar-2026 14:48:02 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 13
+[13-Mar-2026 14:48:02 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 583
+[13-Mar-2026 14:48:02 Africa/Dar_es_Salaam] PHP Warning:  Uninitialized string offset 1 in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 621
+[13-Mar-2026 14:48:02 Africa/Dar_es_Salaam] PHP Warning:  Uninitialized string offset 2 in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 621
+[13-Mar-2026 14:48:02 Africa/Dar_es_Salaam] PHP Warning:  Uninitialized string offset 3 in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 621
+[13-Mar-2026 14:48:02 Africa/Dar_es_Salaam] PHP Warning:  Uninitialized string offset 4 in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 621
+[13-Mar-2026 14:48:02 Africa/Dar_es_Salaam] PHP Warning:  Uninitialized string offset 5 in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 621
+[13-Mar-2026 14:48:02 Africa/Dar_es_Salaam] PHP Warning:  Uninitialized string offset 6 in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 621
+[13-Mar-2026 14:48:04 Africa/Dar_es_Salaam] PHP Warning:  Uninitialized string offset 1 in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 663
+[13-Mar-2026 14:48:04 Africa/Dar_es_Salaam] PHP Warning:  Uninitialized string offset 1 in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 680
+[13-Mar-2026 14:48:04 Africa/Dar_es_Salaam] PHP Warning:  Uninitialized string offset 2 in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 663
+[13-Mar-2026 14:48:04 Africa/Dar_es_Salaam] PHP Warning:  Uninitialized string offset 2 in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 680
+[13-Mar-2026 14:48:04 Africa/Dar_es_Salaam] PHP Warning:  Uninitialized string offset 3 in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 663
+[13-Mar-2026 14:48:04 Africa/Dar_es_Salaam] PHP Warning:  Uninitialized string offset 3 in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 680
+[13-Mar-2026 14:48:04 Africa/Dar_es_Salaam] PHP Warning:  Uninitialized string offset 4 in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 663
+[13-Mar-2026 14:48:04 Africa/Dar_es_Salaam] PHP Warning:  Uninitialized string offset 4 in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 680
+[13-Mar-2026 14:48:04 Africa/Dar_es_Salaam] PHP Warning:  Uninitialized string offset 5 in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 663
+[13-Mar-2026 14:48:04 Africa/Dar_es_Salaam] PHP Warning:  Uninitialized string offset 5 in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 680
+[13-Mar-2026 14:48:04 Africa/Dar_es_Salaam] PHP Warning:  Uninitialized string offset 6 in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 663
+[13-Mar-2026 14:48:04 Africa/Dar_es_Salaam] PHP Warning:  Uninitialized string offset 6 in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 680
+[16-Mar-2026 12:50:30 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "sub_id" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/project_controller.php on line 74
+[16-Mar-2026 12:50:30 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "amount" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/project_controller.php on line 75
+[16-Mar-2026 12:50:30 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/project_controller.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/project_controller.php on line 76
+[16-Mar-2026 13:57:51 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 13
+[16-Mar-2026 15:54:05 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught TypeError: createBulkyTransactionItem(): Argument #16 ($vat_amount) must be of type float, string given, called in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 680 and defined in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:635
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php(680): createBulkyTransactionItem()
+#1 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 635
+[16-Mar-2026 15:54:58 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught TypeError: createBulkyTransactionItem(): Argument #16 ($vat_amount) must be of type float, string given, called in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 680 and defined in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:635
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php(680): createBulkyTransactionItem()
+#1 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 635
+[16-Mar-2026 15:56:00 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught TypeError: createBulkyTransactionItem(): Argument #16 ($vat_amount) must be of type float, string given, called in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 680 and defined in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php:635
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php(680): createBulkyTransactionItem()
+#1 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/voucher_functions.php on line 635
+[17-Mar-2026 08:49:10 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 13
+[17-Mar-2026 10:09:41 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 13
+[17-Mar-2026 12:39:03 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 13
+[17-Mar-2026 12:39:03 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 583
+[17-Mar-2026 14:25:13 Africa/Dar_es_Salaam] PHP Warning:  Undefined variable $userId in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/project_controller.php on line 40
+[17-Mar-2026 14:25:13 Africa/Dar_es_Salaam] PHP Warning:  Undefined variable $userId in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/project_controller.php on line 57
+[17-Mar-2026 16:39:57 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 13
+[17-Mar-2026 16:41:06 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 13
+[17-Mar-2026 16:42:49 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 13
+[18-Mar-2026 09:28:31 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 13
+[20-Mar-2026 13:22:43 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sbiaccountco_jagwa.department_settings' doesn't exist in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/department_controller.php:33
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/department_controller.php(33): mysqli->prepare()
+#1 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/department_controller.php on line 33
+[20-Mar-2026 13:25:26 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/department_functions.php:6
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/department_functions.php(6): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/department_controller.php(29): createDepartment()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/department_functions.php on line 6
+[20-Mar-2026 13:27:47 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'created_by' in 'INSERT INTO' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/department_controller.php:33
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/department_controller.php(33): mysqli->prepare()
+#1 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/department_controller.php on line 33
+[20-Mar-2026 13:30:11 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'Management' for key 'name' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/department_functions.php:6
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/department_functions.php(6): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/department_controller.php(29): createDepartment()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/department_functions.php on line 6
+[20-Mar-2026 14:03:56 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Call to undefined function setNotification() in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php on line 61
+[20-Mar-2026 20:14:40 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php:170
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php(170): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php(69): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php on line 170
+[20-Mar-2026 20:14:41 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php:170
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php(170): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php(69): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php on line 170
+[20-Mar-2026 20:14:42 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php:170
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php(170): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php(69): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php on line 170
+[20-Mar-2026 20:14:43 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php:170
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php(170): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php(69): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php on line 170
+[20-Mar-2026 20:14:43 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php:170
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php(170): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php(69): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php on line 170
+[20-Mar-2026 20:14:44 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php:170
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php(170): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php(69): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php on line 170
+[20-Mar-2026 20:14:44 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php:170
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php(170): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php(69): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php on line 170
+[20-Mar-2026 20:14:45 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php:170
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php(170): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php(69): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php on line 170
+[20-Mar-2026 20:14:45 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php:170
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php(170): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php(69): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php on line 170
+[20-Mar-2026 20:14:46 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php:170
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php(170): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php(69): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php on line 170
+[20-Mar-2026 20:14:46 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php:170
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php(170): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php(69): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php on line 170
+[20-Mar-2026 20:14:47 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php:170
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php(170): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php(69): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php on line 170
+[20-Mar-2026 20:14:47 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php:170
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php(170): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php(69): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php on line 170
+[23-Mar-2026 09:26:41 Africa/Dar_es_Salaam] PHP Warning:  Undefined variable $userId in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/project_controller.php on line 43
+[23-Mar-2026 09:26:41 Africa/Dar_es_Salaam] PHP Warning:  Undefined variable $userId in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/project_controller.php on line 61
+[23-Mar-2026 09:27:53 Africa/Dar_es_Salaam] PHP Warning:  Undefined variable $userId in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/project_controller.php on line 43
+[23-Mar-2026 09:27:53 Africa/Dar_es_Salaam] PHP Warning:  Undefined variable $userId in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/project_controller.php on line 61
+[23-Mar-2026 09:29:55 Africa/Dar_es_Salaam] PHP Warning:  Undefined variable $userId in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/project_controller.php on line 43
+[23-Mar-2026 09:29:55 Africa/Dar_es_Salaam] PHP Warning:  Undefined variable $userId in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/project_controller.php on line 61
+[23-Mar-2026 09:31:33 Africa/Dar_es_Salaam] PHP Warning:  Undefined variable $userId in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/project_controller.php on line 43
+[23-Mar-2026 09:31:33 Africa/Dar_es_Salaam] PHP Warning:  Undefined variable $userId in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/project_controller.php on line 61
+[23-Mar-2026 09:38:16 Africa/Dar_es_Salaam] PHP Warning:  Undefined variable $userId in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/project_controller.php on line 43
+[23-Mar-2026 09:38:16 Africa/Dar_es_Salaam] PHP Warning:  Undefined variable $userId in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/project_controller.php on line 61
+[23-Mar-2026 11:07:31 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/department_controller.php:35
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/department_controller.php(35): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/department_controller.php on line 35
+[23-Mar-2026 11:08:26 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'test' for key 'name' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/department_functions.php:6
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/department_functions.php(6): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/department_controller.php(29): createDepartment()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/department_functions.php on line 6
+[23-Mar-2026 12:20:15 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`sbiaccountco_jagwa`.`departments`, CONSTRAINT `departments_ibfk_3` FOREIGN KEY (`created_by`) REFERENCES `users` (`id`) ON DELETE SET NULL) in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/department_functions.php:6
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/department_functions.php(6): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/department_controller.php(29): createDepartment()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/department_functions.php on line 6
+[23-Mar-2026 12:24:35 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'created_by' cannot be null in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/department_controller.php:35
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/department_controller.php(35): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/department_controller.php on line 35
+[23-Mar-2026 13:06:43 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php:170
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php(170): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php(69): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php on line 170
+[23-Mar-2026 15:25:29 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php:170
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php(170): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php(69): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php on line 170
+[23-Mar-2026 15:25:30 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php:170
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php(170): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php(69): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php on line 170
+[23-Mar-2026 15:25:31 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php:170
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php(170): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php(69): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php on line 170
+[24-Mar-2026 12:49:32 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php:170
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php(170): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php(69): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php on line 170
+[24-Mar-2026 12:49:35 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php:170
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php(170): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php(69): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php on line 170
+[24-Mar-2026 16:37:19 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/leave_functions.php on line 487
+[24-Mar-2026 16:37:19 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/leave_functions.php on line 488
+[24-Mar-2026 16:37:19 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/leave_functions.php:248
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/leave_functions.php(248): mysqli_stmt->bind_param()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/leave_controller.php(87): createLeaveRequest()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/leave_functions.php on line 248
+[24-Mar-2026 16:39:28 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/leave_functions.php on line 487
+[24-Mar-2026 16:39:28 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/leave_functions.php on line 488
+[25-Mar-2026 11:02:28 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Call to undefined function setNotification() in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/leave_controller.php:281
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/leave_controller.php on line 281
+[25-Mar-2026 11:43:34 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sbiaccountco_jagwa.leave_requests' doesn't exist in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/leave_functions.php:145
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/leave_functions.php(145): mysqli->prepare()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/leave_controller.php(46): getLeaveBalanceNew()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/leave_functions.php on line 145
+[25-Mar-2026 11:51:12 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/leave_functions.php on line 487
+[25-Mar-2026 11:51:12 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/leave_functions.php on line 488
+[25-Mar-2026 12:11:40 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: DELETE command denied to user 'sbiaccountco_jagwa_user'@'localhost' for table `sbiaccountco_jagwa`.`department_user_roles` in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/department_controller.php:109
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/department_controller.php(109): mysqli->prepare()
+#1 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/department_controller.php on line 109
+[25-Mar-2026 12:12:29 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: DELETE command denied to user 'sbiaccountco_jagwa_user'@'localhost' for table `sbiaccountco_jagwa`.`department_user_roles` in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/department_controller.php:109
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/department_controller.php(109): mysqli->prepare()
+#1 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/department_controller.php on line 109
+[25-Mar-2026 12:19:44 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/department_controller.php:111
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/department_controller.php(111): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/department_controller.php on line 111
+[25-Mar-2026 14:29:21 Africa/Dar_es_Salaam] Error updating leave request: 
+[25-Mar-2026 14:29:21 Africa/Dar_es_Salaam] Error updating leave balance: 
+[25-Mar-2026 14:34:42 Africa/Dar_es_Salaam] Error updating leave request: 
+[25-Mar-2026 14:34:42 Africa/Dar_es_Salaam] Error updating leave balance: 
+[26-Mar-2026 12:13:55 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Call to undefined function updateUserDetails() in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php on line 77
+[26-Mar-2026 12:29:13 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php:170
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php(170): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/user_controller.php(93): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/user_functions.php on line 170
+[26-Mar-2026 14:45:06 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/leave_functions.php on line 485
+[26-Mar-2026 14:45:06 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/leave_functions.php on line 486
+[26-Mar-2026 14:45:06 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '' for key 'request_number' in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/leave_functions.php:251
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/leave_functions.php(251): mysqli_stmt->execute()
+#1 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/leave_controller.php(88): createLeaveRequest()
+#2 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/leave_functions.php on line 251
+[26-Mar-2026 14:52:14 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/leave_functions.php on line 485
+[26-Mar-2026 14:52:14 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/leave_functions.php on line 486
+[26-Mar-2026 15:16:34 Africa/Dar_es_Salaam] Error updating leave request: 
+[26-Mar-2026 15:16:34 Africa/Dar_es_Salaam] Error updating leave balance: 
+[26-Mar-2026 15:16:56 Africa/Dar_es_Salaam] Error updating leave request: 
+[26-Mar-2026 15:16:56 Africa/Dar_es_Salaam] Error updating leave balance: 
+[26-Mar-2026 15:19:45 Africa/Dar_es_Salaam] Error updating leave request: 
+[26-Mar-2026 15:19:45 Africa/Dar_es_Salaam] Error updating leave balance: 
+[26-Mar-2026 15:21:29 Africa/Dar_es_Salaam] Error updating leave request: 
+[26-Mar-2026 15:21:29 Africa/Dar_es_Salaam] Error updating leave balance: 
+[30-Mar-2026 14:51:55 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/leave_functions.php on line 485
+[30-Mar-2026 14:51:55 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/leave_functions.php on line 486
+[30-Mar-2026 15:01:52 Africa/Dar_es_Salaam] Error updating leave request: 
+[30-Mar-2026 15:01:52 Africa/Dar_es_Salaam] Error updating leave balance: 
+[30-Mar-2026 15:26:23 Africa/Dar_es_Salaam] Error updating leave request: 
+[30-Mar-2026 15:26:23 Africa/Dar_es_Salaam] Error updating leave balance: 
+[30-Mar-2026 15:38:21 Africa/Dar_es_Salaam] Error updating leave request: 
+[30-Mar-2026 15:38:21 Africa/Dar_es_Salaam] Error updating leave balance: 
+[31-Mar-2026 16:47:28 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 13
+[31-Mar-2026 16:47:28 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/voucher_controller.php on line 583
+[01-Apr-2026 14:51:28 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/leave_functions.php on line 485
+[01-Apr-2026 14:51:28 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/leave_functions.php on line 486
+[01-Apr-2026 14:54:13 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/leave_functions.php on line 485
+[01-Apr-2026 14:54:13 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/leave_functions.php on line 486
+[01-Apr-2026 17:07:33 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/leave_functions.php on line 485
+[01-Apr-2026 17:07:33 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/leave_functions.php on line 486
+[01-Apr-2026 22:33:31 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function recordAttendance(), 3 passed in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/attendance_controller.php on line 30 and exactly 4 expected in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/attendance_functions.php:7
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/attendance_controller.php(30): recordAttendance()
+#1 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/attendance_functions.php on line 7
+[02-Apr-2026 08:43:34 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function recordAttendance(), 3 passed in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/attendance_controller.php on line 30 and exactly 4 expected in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/attendance_functions.php:7
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/attendance_controller.php(30): recordAttendance()
+#1 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/attendance_functions.php on line 7
+[02-Apr-2026 12:32:59 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "tin" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/subsidiary_controller.php on line 23
+[02-Apr-2026 12:32:59 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "vrn" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/subsidiary_controller.php on line 24
+[02-Apr-2026 12:33:47 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "tin" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/subsidiary_controller.php on line 23
+[02-Apr-2026 12:33:47 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "vrn" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/subsidiary_controller.php on line 24
+[02-Apr-2026 12:34:08 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "tin" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/subsidiary_controller.php on line 23
+[02-Apr-2026 12:34:08 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "vrn" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/subsidiary_controller.php on line 24
+[02-Apr-2026 12:34:32 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "tin" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/subsidiary_controller.php on line 23
+[02-Apr-2026 12:34:32 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "vrn" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/subsidiary_controller.php on line 24
+[02-Apr-2026 12:34:44 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "vrn" in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/subsidiary_controller.php on line 24
+[08-Apr-2026 14:05:09 Africa/Dar_es_Salaam] running
+[08-Apr-2026 14:12:23 Africa/Dar_es_Salaam] running
+[09-Apr-2026 09:12:50 Africa/Dar_es_Salaam] running
+[09-Apr-2026 10:29:27 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getCheckInTimeDistribution(), 3 passed in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/time_management_controller.php on line 84 and exactly 4 expected in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/attendance_functions.php:231
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/time_management_controller.php(84): getCheckInTimeDistribution()
+#1 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/attendance_functions.php on line 231
+[09-Apr-2026 10:29:41 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getCheckInTimeDistribution(), 3 passed in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/time_management_controller.php on line 84 and exactly 4 expected in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/attendance_functions.php:231
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/time_management_controller.php(84): getCheckInTimeDistribution()
+#1 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/attendance_functions.php on line 231
+[09-Apr-2026 10:38:13 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getCheckInTimeDistribution(), 3 passed in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/time_management_controller.php on line 84 and exactly 4 expected in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/attendance_functions.php:231
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/time_management_controller.php(84): getCheckInTimeDistribution()
+#1 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/attendance_functions.php on line 231
+[09-Apr-2026 10:39:58 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getCheckInTimeDistribution(), 3 passed in /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/time_management_controller.php on line 84 and exactly 4 expected in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/attendance_functions.php:231
+Stack trace:
+#0 /home/sbiaccountco/jagwa.sbiaccount.co.tz/controllers/time_management_controller.php(84): getCheckInTimeDistribution()
+#1 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/functions/attendance_functions.php on line 231
+[09-Apr-2026 23:01:48 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Call to undefined function createSalesVoucher() in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 210
+[10-Apr-2026 10:38:51 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Call to undefined function insertManufacturingOrderItem() in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 34
+[13-Apr-2026 00:51:53 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function insertStockMovement(), 14 passed in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 444 and exactly 15 expected in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php:337
+Stack trace:
+#0 /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php(444): insertStockMovement()
+#1 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php on line 337
+[13-Apr-2026 00:52:50 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function insertStockMovement(), 14 passed in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 445 and exactly 15 expected in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php:337
+Stack trace:
+#0 /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php(445): insertStockMovement()
+#1 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php on line 337
+[13-Apr-2026 00:57:47 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function insertStockMovement(), 14 passed in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 275 and exactly 15 expected in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php:337
+Stack trace:
+#0 /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php(275): insertStockMovement()
+#1 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php on line 337
+[13-Apr-2026 15:40:28 Asia/Kolkata] PHP Parse error:  Unclosed '{' on line 14 in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 625
+[14-Apr-2026 12:01:12 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/user_functions.php on line 179
+[14-Apr-2026 12:01:19 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/user_functions.php on line 179
+[14-Apr-2026 12:01:22 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/user_functions.php on line 179
+[14-Apr-2026 12:01:55 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/user_functions.php on line 179
+[14-Apr-2026 14:37:57 Africa/Dar_es_Salaam] PHP Warning:  require_once(/home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/../functions/project_functions.php): Failed to open stream: No such file or directory in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/bulk_action_controller.php on line 9
+[14-Apr-2026 14:37:57 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/../functions/project_functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/bulk_action_controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/bulk_action_controller.php on line 9
+[14-Apr-2026 14:38:05 Africa/Dar_es_Salaam] PHP Warning:  require_once(/home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/../functions/project_functions.php): Failed to open stream: No such file or directory in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/bulk_action_controller.php on line 9
+[14-Apr-2026 14:38:05 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/../functions/project_functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/bulk_action_controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/bulk_action_controller.php on line 9
+[17-Apr-2026 11:48:13 Africa/Dar_es_Salaam] PHP Warning:  require_once(/home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/../functions/project_functions.php): Failed to open stream: No such file or directory in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/bulk_action_controller.php on line 9
+[17-Apr-2026 11:48:13 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/../functions/project_functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/bulk_action_controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/bulk_action_controller.php on line 9
+[17-Apr-2026 11:48:25 Africa/Dar_es_Salaam] PHP Warning:  require_once(/home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/../functions/project_functions.php): Failed to open stream: No such file or directory in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/bulk_action_controller.php on line 9
+[17-Apr-2026 11:48:25 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/../functions/project_functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/bulk_action_controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/bulk_action_controller.php on line 9
+[22-Apr-2026 20:53:21 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 343
+[23-Apr-2026 11:33:40 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 413
+[23-Apr-2026 12:44:25 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 413
+[27-Apr-2026 17:20:00 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 413
+[30-Apr-2026 15:03:07 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught TypeError: insertStockMovement(): Argument #10 ($unit) must be of type int, string given, called in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 498 and defined in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php:337
+Stack trace:
+#0 /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php(498): insertStockMovement()
+#1 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php on line 337
+[30-Apr-2026 15:03:15 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught TypeError: insertStockMovement(): Argument #10 ($unit) must be of type int, string given, called in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 498 and defined in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php:337
+Stack trace:
+#0 /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php(498): insertStockMovement()
+#1 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php on line 337
+[30-Apr-2026 15:03:19 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught TypeError: insertStockMovement(): Argument #10 ($unit) must be of type int, string given, called in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 498 and defined in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php:337
+Stack trace:
+#0 /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php(498): insertStockMovement()
+#1 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php on line 337
+[30-Apr-2026 15:03:26 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught TypeError: insertStockMovement(): Argument #10 ($unit) must be of type int, string given, called in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 498 and defined in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php:337
+Stack trace:
+#0 /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php(498): insertStockMovement()
+#1 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php on line 337
+[30-Apr-2026 15:03:32 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught TypeError: insertStockMovement(): Argument #10 ($unit) must be of type int, string given, called in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 498 and defined in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php:337
+Stack trace:
+#0 /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php(498): insertStockMovement()
+#1 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php on line 337
+[30-Apr-2026 15:03:57 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught TypeError: insertStockMovement(): Argument #10 ($unit) must be of type int, string given, called in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 498 and defined in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php:337
+Stack trace:
+#0 /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php(498): insertStockMovement()
+#1 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php on line 337
+[30-Apr-2026 15:04:21 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught TypeError: insertStockMovement(): Argument #10 ($unit) must be of type int, string given, called in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 498 and defined in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php:337
+Stack trace:
+#0 /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php(498): insertStockMovement()
+#1 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php on line 337
+[30-Apr-2026 15:04:43 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught TypeError: insertStockMovement(): Argument #10 ($unit) must be of type int, string given, called in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 498 and defined in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php:337
+Stack trace:
+#0 /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php(498): insertStockMovement()
+#1 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php on line 337
+[30-Apr-2026 15:04:51 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught TypeError: insertStockMovement(): Argument #10 ($unit) must be of type int, string given, called in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 498 and defined in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php:337
+Stack trace:
+#0 /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php(498): insertStockMovement()
+#1 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php on line 337
+[30-Apr-2026 15:05:35 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught TypeError: insertStockMovement(): Argument #10 ($unit) must be of type int, string given, called in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 508 and defined in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php:337
+Stack trace:
+#0 /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php(508): insertStockMovement()
+#1 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php on line 337
+[01-May-2026 13:41:41 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 418
+[01-May-2026 14:51:56 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 418
+[02-May-2026 11:09:59 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 418
+[02-May-2026 12:54:14 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 418
+[02-May-2026 15:48:55 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 418
+[02-May-2026 18:24:58 Africa/Dar_es_Salaam] PHP Warning:  require_once(../functions/min_subs_functions.php): Failed to open stream: No such file or directory in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 12
+[02-May-2026 18:24:58 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Failed opening required '../functions/min_subs_functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 12
+[03-May-2026 11:59:24 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 421
+[05-May-2026 12:49:01 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 421
+[06-May-2026 16:03:59 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught TypeError: insertStockMovement(): Argument #10 ($unit) must be of type int, string given, called in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 514 and defined in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php:337
+Stack trace:
+#0 /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php(514): insertStockMovement()
+#1 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php on line 337
+[06-May-2026 16:05:44 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught TypeError: insertStockMovement(): Argument #10 ($unit) must be of type int, string given, called in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 514 and defined in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php:337
+Stack trace:
+#0 /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php(514): insertStockMovement()
+#1 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php on line 337
+[06-May-2026 16:05:49 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught TypeError: insertStockMovement(): Argument #10 ($unit) must be of type int, string given, called in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 514 and defined in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php:337
+Stack trace:
+#0 /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php(514): insertStockMovement()
+#1 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php on line 337
+[06-May-2026 16:06:10 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught TypeError: insertStockMovement(): Argument #10 ($unit) must be of type int, string given, called in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 514 and defined in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php:337
+Stack trace:
+#0 /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php(514): insertStockMovement()
+#1 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php on line 337
+[06-May-2026 16:06:15 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught TypeError: insertStockMovement(): Argument #10 ($unit) must be of type int, string given, called in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 514 and defined in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php:337
+Stack trace:
+#0 /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php(514): insertStockMovement()
+#1 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php on line 337
+[06-May-2026 16:08:35 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught TypeError: insertStockMovement(): Argument #10 ($unit) must be of type int, string given, called in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 514 and defined in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php:337
+Stack trace:
+#0 /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php(514): insertStockMovement()
+#1 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php on line 337
+[06-May-2026 16:08:39 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught TypeError: insertStockMovement(): Argument #10 ($unit) must be of type int, string given, called in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 514 and defined in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php:337
+Stack trace:
+#0 /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php(514): insertStockMovement()
+#1 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/functions/stock_functions.php on line 337
+[14-May-2026 12:28:44 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/controllers/stock_controllers.php on line 633
+[31-May-2026 16:22:09 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ombe/sikukuu', updated_at = NOW(), updated_by = 51 WHERE id = 5 AND deleted_a...' at line 1 in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/stock_functions.php:231
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/stock_functions.php(231): mysqli->query()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/stock_controllers.php(281): updateStockStore()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/stock_functions.php on line 231
+[12-Jun-2026 11:04:48 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Call to undefined function approveStockDateRequest() in /home/sbiaccountco/precious.sbiaccount.co.tz/controllers/stock_date_request_controller.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/precious.sbiaccount.co.tz/controllers/stock_date_request_controller.php on line 54
+[19-Jun-2026 13:32:04 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/min_sub_controller.php on line 12
+[19-Jun-2026 14:26:03 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[19-Jun-2026 14:26:05 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[19-Jun-2026 14:26:05 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[19-Jun-2026 14:26:06 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[19-Jun-2026 14:26:06 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[19-Jun-2026 15:55:41 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "userid" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/min_sub_controller.php on line 12
+[21-Jun-2026 00:19:05 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[21-Jun-2026 00:19:06 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[21-Jun-2026 00:19:06 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[21-Jun-2026 00:19:07 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[21-Jun-2026 00:20:16 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[29-Jun-2026 10:08:08 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[29-Jun-2026 10:08:09 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[29-Jun-2026 10:08:09 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[29-Jun-2026 10:08:10 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[29-Jun-2026 23:12:24 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[29-Jun-2026 23:12:25 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[29-Jun-2026 23:12:26 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[29-Jun-2026 23:12:26 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[29-Jun-2026 23:12:27 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[07-Jul-2026 17:05:08 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[07-Jul-2026 17:05:09 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[07-Jul-2026 17:05:09 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[07-Jul-2026 17:05:10 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[10-Jul-2026 01:55:39 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[10-Jul-2026 01:55:39 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[10-Jul-2026 01:55:40 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[10-Jul-2026 01:55:40 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[10-Jul-2026 01:56:07 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[18-Jul-2026 17:08:31 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[18-Jul-2026 17:08:32 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[18-Jul-2026 17:08:33 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[18-Jul-2026 17:08:33 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[18-Jul-2026 17:08:34 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[18-Jul-2026 17:09:29 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[18-Jul-2026 17:09:29 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[18-Jul-2026 17:09:30 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[18-Jul-2026 17:09:30 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[26-Jul-2026 20:29:50 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[26-Jul-2026 20:29:51 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[26-Jul-2026 20:29:51 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[26-Jul-2026 20:29:52 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[26-Jul-2026 20:29:58 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[30-Jul-2026 14:58:48 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[30-Jul-2026 14:58:49 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[30-Jul-2026 14:58:49 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[30-Jul-2026 14:58:50 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[12-Aug-2026 07:41:51 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[12-Aug-2026 07:41:51 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[12-Aug-2026 07:41:52 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[12-Aug-2026 07:41:52 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[12-Aug-2026 09:04:41 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[12-Aug-2026 09:04:42 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[12-Aug-2026 09:04:42 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[12-Aug-2026 09:04:43 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179
+[12-Aug-2026 09:05:01 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: deleted_at must remain NULL in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php:179
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php(179): mysqli_stmt->execute()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/controllers/user_controller.php(95): softDeleteUser()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/user_functions.php on line 179

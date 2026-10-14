@@ -1,0 +1,16 @@
+/*:root {*/
+/*    --primary:       #d97c2b;*/
+/*    --primary-dark:  #c06a1a;*/
+/*    --primary-light: #fdf3e7;*/
+/*    --primary-text:  #fff;*/
+/*}*/
+
+:root {
+    --primary:        #2E8B47;   /* Kijani kikuu - balanced, professional, karibu na logo */
+    --primary-dark:   #1F6B35;   /* Kijani cha kina - kwa hover, borders, headings */
+    --primary-light:  #EAF6EC;   /* Kijani hafifu sana - background za cards/alerts */
+    --primary-text:   #fff;      /* Maandishi juu ya primary */
+
+    --secondary-green: #7CB342;  /* Lime accent - kwa highlights, badges, success states */
+    --accent-gold:     #C9972D;  /* Rangi ya pili (optional) - kwa CTA muhimu au VIP badges */
+}

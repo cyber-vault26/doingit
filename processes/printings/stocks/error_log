@@ -1,0 +1,22 @@
+[20-Mar-2026 16:23:45 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Call to undefined function selectMinSubById() in /home/sbiaccountco/jagwa.sbiaccount.co.tz/processes/printings/stocks/print_stock_batch.php:161
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/jagwa.sbiaccount.co.tz/processes/printings/stocks/print_stock_batch.php on line 161
+[11-Apr-2026 13:40:02 Africa/Dar_es_Salaam] PHP Warning:  require_once(../../../functions/project_functions.php): Failed to open stream: No such file or directory in /home/sbiaccountco/tycoon.sbiaccount.co.tz/processes/printings/stocks/print_stock_batch.php on line 8
+[11-Apr-2026 13:40:02 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Failed opening required '../../../functions/project_functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sbiaccountco/tycoon.sbiaccount.co.tz/processes/printings/stocks/print_stock_batch.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/processes/printings/stocks/print_stock_batch.php on line 8
+[11-Apr-2026 13:50:00 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "project_id" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/processes/printings/stocks/print_stock_batch.php on line 25
+[11-Apr-2026 13:51:45 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "project_id" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/processes/printings/stocks/print_stock_batch.php on line 25
+[11-Apr-2026 13:55:00 Africa/Dar_es_Salaam] PHP Warning:  Undefined array key "project_id" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/processes/printings/stocks/print_stock_batch.php on line 25
+[01-Jun-2026 15:53:42 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Drawing" not found in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/processes/printings/stocks/stock_items_excel.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/processes/printings/stocks/stock_items_excel.php on line 35
+[05-Jun-2026 14:20:43 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Mpdf\MpdfException: The HTML code size is larger than pcre.backtrack_limit 1000000. You should use WriteHTML() with smaller string lengths. Pass your HTML in smaller chunks. in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/vendor/mpdf/mpdf/src/Mpdf.php:27018
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/vendor/mpdf/mpdf/src/Mpdf.php(13371): Mpdf\Mpdf->AdjustHTML()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/processes/printings/stocks/print_stock_items.php(155): Mpdf\Mpdf->WriteHTML()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/vendor/mpdf/mpdf/src/Mpdf.php on line 27018

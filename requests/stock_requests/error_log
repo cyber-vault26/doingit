@@ -1,0 +1,68 @@
+[12-Apr-2026 13:06:32 Asia/Kolkata] PHP Warning:  require_once(../configs.php): Failed to open stream: No such file or directory in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/stock_requests/stock_form_requests.php on line 2
+[12-Apr-2026 13:06:32 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Failed opening required '../configs.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/stock_requests/stock_form_requests.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/stock_requests/stock_form_requests.php on line 2
+[13-Apr-2026 01:17:29 Asia/Kolkata] PHP Warning:  require_once(../,,/configs.php): Failed to open stream: No such file or directory in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/stock_requests/stock_requests.php on line 2
+[13-Apr-2026 01:17:29 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Failed opening required '../,,/configs.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/stock_requests/stock_requests.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/stock_requests/stock_requests.php on line 2
+[18-Apr-2026 12:23:49 Asia/Kolkata] PHP Warning:  Undefined array key "usertype" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/stock_requests/stock_form_requests.php on line 6
+[23-Apr-2026 16:01:41 Asia/Kolkata] PHP Warning:  Undefined array key "usertype" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/stock_requests/stock_form_requests.php on line 6
+[28-Apr-2026 12:13:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected token "<" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/stock_requests/stock_requests.php on line 170
+[01-May-2026 15:02:18 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/sbiaccountco/tycoon.sbiaccount.co.tz/configs.php:14
+Stack trace:
+#0 /home/sbiaccountco/tycoon.sbiaccount.co.tz/configs.php(14): mysqli_connect()
+#1 /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/stock_requests/stock_form_requests.php(12): openConn()
+#2 {main}
+  thrown in /home/sbiaccountco/tycoon.sbiaccount.co.tz/configs.php on line 14
+[01-May-2026 18:01:01 Asia/Kolkata] PHP Warning:  Undefined array key "usertype" in /home/sbiaccountco/tycoon.sbiaccount.co.tz/requests/stock_requests/stock_form_requests.php on line 6
+[26-May-2026 20:35:17 Asia/Kolkata] PHP Warning:  Undefined array key "usertype" in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/stock_requests/stock_form_requests.php on line 6
+[11-Jun-2026 11:57:32 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Call to undefined function renderPrintScript() in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/stock_requests/stock_requests.php:348
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/stock_requests/stock_requests.php on line 348
+[11-Jun-2026 11:58:38 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Call to undefined function renderPrintScript() in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/stock_requests/stock_requests.php:348
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/stock_requests/stock_requests.php on line 348
+[11-Jun-2026 21:40:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/stock_requests/stock_form_requests.php on line 722
+[12-Jun-2026 11:21:14 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Call to undefined function selectUserApprovedStockDatesToday() in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/stock_requests/stock_form_requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/stock_requests/stock_form_requests.php on line 12
+[12-Jun-2026 11:21:20 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught Error: Call to undefined function selectUserApprovedStockDatesToday() in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/stock_requests/stock_form_requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/stock_requests/stock_form_requests.php on line 12
+[12-Jun-2026 11:22:29 Africa/Dar_es_Salaam] PHP Warning:  Undefined variable $conn in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/stock_requests/stock_form_requests.php on line 13
+[12-Jun-2026 11:22:29 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught TypeError: selectUserApprovedStockDatesToday(): Argument #1 ($conn) must be of type mysqli, null given, called in /home/sbiaccountco/precious.sbiaccount.co.tz/requests/stock_requests/stock_form_requests.php on line 13 and defined in /home/sbiaccountco/precious.sbiaccount.co.tz/functions/stock_date_request_functions.php:112
+Stack trace:
+#0 /home/sbiaccountco/precious.sbiaccount.co.tz/requests/stock_requests/stock_form_requests.php(13): selectUserApprovedStockDatesToday()
+#1 {main}
+  thrown in /home/sbiaccountco/precious.sbiaccount.co.tz/functions/stock_date_request_functions.php on line 112
+[12-Jun-2026 17:21:01 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'approved_at' in 'WHERE' in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/stock_date_request_functions.php:119
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/stock_date_request_functions.php(119): mysqli->query()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/stock_requests/stock_form_requests.php(17): selectUserApprovedStockDatesToday()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/stock_date_request_functions.php on line 119
+[12-Jun-2026 17:21:07 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'approved_at' in 'WHERE' in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/stock_date_request_functions.php:119
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/stock_date_request_functions.php(119): mysqli->query()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/stock_requests/stock_form_requests.php(17): selectUserApprovedStockDatesToday()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/stock_date_request_functions.php on line 119
+[12-Jun-2026 17:21:08 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'approved_at' in 'WHERE' in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/stock_date_request_functions.php:119
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/stock_date_request_functions.php(119): mysqli->query()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/stock_requests/stock_form_requests.php(17): selectUserApprovedStockDatesToday()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/stock_date_request_functions.php on line 119
+[12-Jun-2026 17:21:09 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'approved_at' in 'WHERE' in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/stock_date_request_functions.php:119
+Stack trace:
+#0 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/stock_date_request_functions.php(119): mysqli->query()
+#1 /home/sbiaccountco/mangowolight.sbiaccount.co.tz/requests/stock_requests/stock_form_requests.php(17): selectUserApprovedStockDatesToday()
+#2 {main}
+  thrown in /home/sbiaccountco/mangowolight.sbiaccount.co.tz/functions/stock_date_request_functions.php on line 119
